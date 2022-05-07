@@ -9,3 +9,9 @@ Generate random DAGS with:
 
 Compilation: g++ -O3 -Wall -o randomDAG randomDAG.cpp -lm
 Execution: ./randomDAG N p [seed] > testfile
+
+This assignment was done in collaboration with:
+```
+Francisco Oliveira ist196860
+
+```
