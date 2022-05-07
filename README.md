@@ -1,4 +1,4 @@
-# ASA
+# Analysis and Synthesis of Algorithms
 Projects about Analisis and Algorithm Syntesis
 
 First project consists of finding the Longest path in a graph
